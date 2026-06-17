@@ -1,0 +1,31 @@
+Student_ID,Department,Gender,CGPA,Company,Package_LPA,Placement_Status
+101,CSE,Female,8.9,TCS,4.5,Placed
+102,CSE,Male,8.4,Infosys,5.2,Placed
+103,CSE,Female,9.1,Accenture,6.0,Placed
+104,CSE,Male,7.2,,0,Not Placed
+105,CSE,Female,8.0,Wipro,4.2,Placed
+106,IT,Male,8.7,Cognizant,5.0,Placed
+107,IT,Female,8.3,TCS,4.5,Placed
+108,IT,Male,7.1,,0,Not Placed
+109,IT,Female,9.0,Capgemini,6.5,Placed
+110,IT,Male,8.2,Infosys,5.2,Placed
+111,ECE,Female,8.5,TCS,4.5,Placed
+112,ECE,Male,7.9,Wipro,4.2,Placed
+113,ECE,Female,8.8,Accenture,6.0,Placed
+114,ECE,Male,6.9,,0,Not Placed
+115,ECE,Female,8.1,Cognizant,5.0,Placed
+116,EEE,Male,7.8,TCS,4.5,Placed
+117,EEE,Female,8.4,Infosys,5.2,Placed
+118,EEE,Male,6.8,,0,Not Placed
+119,EEE,Female,8.6,Capgemini,6.5,Placed
+120,EEE,Male,7.5,Wipro,4.2,Placed
+121,MECH,Male,7.4,TCS,4.5,Placed
+122,MECH,Female,8.0,Cognizant,5.0,Placed
+123,MECH,Male,6.7,,0,Not Placed
+124,MECH,Female,8.3,Infosys,5.2,Placed
+125,MECH,Male,7.9,Wipro,4.2,Placed
+126,CIVIL,Female,8.1,TCS,4.5,Placed
+127,CIVIL,Male,7.0,,0,Not Placed
+128,CIVIL,Female,8.4,Capgemini,6.5,Placed
+129,CIVIL,Male,7.8,Cognizant,5.0,Placed
+130,CIVIL,Female,8.7,Accenture,6.0,Placed
